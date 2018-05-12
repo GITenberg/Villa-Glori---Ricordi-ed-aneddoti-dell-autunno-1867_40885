@@ -1,0 +1,34 @@
+_repo: Villa-Glori---Ricordi-ed-aneddoti-dell-autunno-1867_40885
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40885-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Ferrari, Pio Vittorio
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '40876'
+    url: http://www.gutenberg.org/2009/agents/40876
+  - agent_name: Cairoli, Giovanni
+    birthdate: 1842
+    deathdate: 1869
+    gutenberg_agent_id: '40877'
+    url: http://www.gutenberg.org/2009/agents/40877
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40885'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Cairoli, Enrico, 1840-1867'
+- !lcsh 'Cairoli, Giovanni, 1842-1869'
+- !lcsh 'Rome (Italy) -- History -- 1798-1870'
+title: Villa Glori - Ricordi ed aneddoti dell'autunno 1867
+url: http://www.gutenberg.org/ebooks/40885
