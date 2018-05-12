@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40877'
     url: http://www.gutenberg.org/2009/agents/40877
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40885#Villa-Glori---Ricordi-ed-aneddoti-dell-autunno-1867
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2012-09-28'
 gutenberg_type: Text
